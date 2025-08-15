@@ -23,12 +23,12 @@ while (i<6){
 //     console.log(x)
 // }
 
-let marks = {
-    johndoe : 85,
-    tom : 30,
-    engel : 455,
-    sha : 60,
-};
-for (key in object){
-    console.log(marks[Tom]);
-}
+// let marks = {
+//     johndoe : 85,
+//     tom : 30,
+//     engel : 455,
+//     sha : 60,
+// };
+// for (key in object){
+//     console.log(marks[Tom]);
+// }
